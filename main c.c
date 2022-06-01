@@ -9,7 +9,7 @@ int main(int argc, char *argv[]) {
 	int c;
 	c = a + b;
 	printf ("helo world\n");
-	printf ("c = %d\n, c");
+	printf ("c = %d\n", c);
 	printf (" %d + %d = %d", a,b,c);
 	return 0;
 }
